@@ -3,6 +3,8 @@ Programa que consiste en sustituir cadena de letras por la que este en la 13
 posición
 IndexOF busca un caracter a partir de un indice especifico, si no lo encuentra
 devuelve -1.
+Mirar stringbuffer
+arrylist
 */
 import java.util.Scanner;
 
