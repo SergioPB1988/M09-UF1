@@ -2,7 +2,7 @@ package iticbcn.xifratge;
 
 import java.util.*;
 
-public class Monoalfabetico {
+public class XifradorMonoalfabetico {
 
     private static String alfabetoOriginal = "abcdefghijklmnopqrstuvwxyzáéíóúüç";
     private static String alfabetoPermutado;
@@ -48,3 +48,4 @@ public class Monoalfabetico {
         return resultado.toString();
     }
 }
+
